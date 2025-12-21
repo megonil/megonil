@@ -13,7 +13,7 @@ Here are some of the technologies I've tried and/or use:
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megonilus&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megonil&layout=compact&theme=vision-friendly-dark)
 
-![megonil's GitHub stats](https://github-readme-stats.vercel.app/api?username=megonilus&show_icons=true&theme=vision-friendly-dark)
+![megonil's GitHub stats](https://github-readme-stats.vercel.app/api?username=megonil&show_icons=true&theme=vision-friendly-dark)
 
