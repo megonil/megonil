@@ -12,4 +12,4 @@ Here are some of the technologies I've tried and/or use:
 [![Some Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 
-[![Megonil's GitHub stats](https://github-readme-stats.vercel.app/api?username=megonil)](https://github.com/anuraghazra/github-readme-stats)
+![Megonil's GitHub stats](https://github-readme-stats.vercel.app/api?username=megonil&show_icons=true&theme=gruvbox)
