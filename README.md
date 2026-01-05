@@ -10,3 +10,7 @@ Here are some of the technologies I've tried and/or use:
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![A little C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Some Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
+
+
+![Megonil's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=megonil)]
