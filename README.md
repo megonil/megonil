@@ -12,13 +12,13 @@ Here are some of the technologies I've tried and/or use:
 [![Some Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=megonil&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=megonil&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=megonil&layout=compact&theme=dracula&hide_border=true&langs_count=10&card_width=600" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=megonil&layout=compact&theme=gruvbox&hide_border=true&langs_count=20&card_width=600" height="180" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=megonil&theme=dracula&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=megonil&theme=gruvbox&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
